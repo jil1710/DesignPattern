@@ -1,0 +1,15 @@
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\bin\Debug\net7.0\BuilderPattern.exe
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\bin\Debug\net7.0\BuilderPattern.deps.json
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\bin\Debug\net7.0\BuilderPattern.runtimeconfig.json
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\bin\Debug\net7.0\BuilderPattern.dll
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\bin\Debug\net7.0\BuilderPattern.pdb
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.dll
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\obj\Debug\net7.0\refint\BuilderPattern.dll
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.pdb
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\obj\Debug\net7.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\jil\source\repos\AllDesignPattern\BuilderPattern\BuilderPattern\obj\Debug\net7.0\ref\BuilderPattern.dll
