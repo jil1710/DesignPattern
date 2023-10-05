@@ -1,0 +1,15 @@
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\bin\Debug\net7.0\FacadeDEsignPattern.exe
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\bin\Debug\net7.0\FacadeDEsignPattern.deps.json
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\bin\Debug\net7.0\FacadeDEsignPattern.runtimeconfig.json
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\bin\Debug\net7.0\FacadeDEsignPattern.dll
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\bin\Debug\net7.0\FacadeDEsignPattern.pdb
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\obj\Debug\net7.0\FacadeDEsignPattern.csproj.AssemblyReference.cache
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\obj\Debug\net7.0\FacadeDEsignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\obj\Debug\net7.0\FacadeDEsignPattern.AssemblyInfoInputs.cache
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\obj\Debug\net7.0\FacadeDEsignPattern.AssemblyInfo.cs
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\obj\Debug\net7.0\FacadeDEsignPattern.csproj.CoreCompileInputs.cache
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\obj\Debug\net7.0\FacadeDEsignPattern.dll
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\obj\Debug\net7.0\refint\FacadeDEsignPattern.dll
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\obj\Debug\net7.0\FacadeDEsignPattern.pdb
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\obj\Debug\net7.0\FacadeDEsignPattern.genruntimeconfig.cache
+C:\Users\jil\source\repos\AllDesignPattern\FacadeDEsignPattern\FacadeDEsignPattern\obj\Debug\net7.0\ref\FacadeDEsignPattern.dll
