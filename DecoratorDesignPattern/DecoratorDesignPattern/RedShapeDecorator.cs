@@ -9,8 +9,6 @@ namespace DecoratorDesignPattern
 {
     public class RedShapeDecorator : ShapeDecorator
     {
-
-
         public RedShapeDecorator(IShape decoratedShape) : base(decoratedShape)
         {
             
@@ -27,5 +25,5 @@ namespace DecoratorDesignPattern
             // Display message whenever function is called 
             Console.WriteLine("Border Color: Red");
         }
-}
+    }
 }
