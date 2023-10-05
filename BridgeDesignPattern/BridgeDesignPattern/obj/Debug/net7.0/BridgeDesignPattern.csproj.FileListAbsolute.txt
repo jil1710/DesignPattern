@@ -1,0 +1,15 @@
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\net7.0\BridgeDesignPattern.exe
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\net7.0\BridgeDesignPattern.deps.json
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\net7.0\BridgeDesignPattern.runtimeconfig.json
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\net7.0\BridgeDesignPattern.dll
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\net7.0\BridgeDesignPattern.pdb
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net7.0\BridgeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net7.0\BridgeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net7.0\BridgeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net7.0\BridgeDesignPattern.AssemblyInfo.cs
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net7.0\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net7.0\BridgeDesignPattern.dll
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net7.0\refint\BridgeDesignPattern.dll
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net7.0\BridgeDesignPattern.pdb
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net7.0\BridgeDesignPattern.genruntimeconfig.cache
+C:\Users\jil\source\repos\AllDesignPattern\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\net7.0\ref\BridgeDesignPattern.dll
