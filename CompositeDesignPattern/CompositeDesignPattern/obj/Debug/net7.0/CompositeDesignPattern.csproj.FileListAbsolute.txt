@@ -1,0 +1,15 @@
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net7.0\CompositeDesignPattern.exe
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net7.0\CompositeDesignPattern.deps.json
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net7.0\CompositeDesignPattern.runtimeconfig.json
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net7.0\CompositeDesignPattern.dll
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net7.0\CompositeDesignPattern.pdb
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net7.0\CompositeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net7.0\CompositeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net7.0\CompositeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net7.0\CompositeDesignPattern.AssemblyInfo.cs
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net7.0\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net7.0\CompositeDesignPattern.dll
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net7.0\refint\CompositeDesignPattern.dll
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net7.0\CompositeDesignPattern.pdb
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net7.0\CompositeDesignPattern.genruntimeconfig.cache
+C:\Users\jil\source\repos\AllDesignPattern\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net7.0\ref\CompositeDesignPattern.dll
