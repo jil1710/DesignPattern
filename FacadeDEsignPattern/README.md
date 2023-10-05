@@ -25,5 +25,5 @@
   - So, here, the extra class Order is nothing but the Facade class, which will be responsible for placing the order. This class internally creates the instance of the respective classes and calls the methods in a particular order. Now, the Client will not call the respective classes and their methods to place the order; instead, the Client will call the Order Class, PlaceOrder to method to place an order. The PlaceOrder method will internally use the Product, Payment, and Invoice classes to place the order.
 
 
- - Click here to see the example : [Facade Pattern](https://github.com/jil1710/DesignPattern/tree/master/DecoratorDesignPattern)
+ - Click here to see the example : [Facade Pattern](https://github.com/jil1710/DesignPattern/tree/master/FacadeDEsignPattern)
 
