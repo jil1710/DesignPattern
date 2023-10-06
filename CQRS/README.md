@@ -53,5 +53,5 @@
      ![image](https://github.com/jil1710/readmedemo/assets/125335932/c7d15078-32dd-4ea0-a774-9f9b7fad0945)
 
 
-- Click here to see the example of Composite Pattern : [CQRS Pattern](https://github.com/jil1710/DesignPattern/tree/master/CQRS)
+- Click here to see the example of CQRS Pattern : [CQRS Pattern](https://github.com/jil1710/DesignPattern/tree/master/CQRS)
 
