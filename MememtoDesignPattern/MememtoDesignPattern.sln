@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MememtoDesignPattern", "MememtoDesignPattern\MememtoDesignPattern.csproj", "{C0E24D5B-32F7-4C60-BBF1-D8D5B6CCBF76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E24D5B-32F7-4C60-BBF1-D8D5B6CCBF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E24D5B-32F7-4C60-BBF1-D8D5B6CCBF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E24D5B-32F7-4C60-BBF1-D8D5B6CCBF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E24D5B-32F7-4C60-BBF1-D8D5B6CCBF76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDC17C5F-A3FE-4A8F-892E-EED45145C019}
+	EndGlobalSection
+EndGlobal
